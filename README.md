@@ -1,7 +1,7 @@
-# ca-fires-history
+# cs-durham-history
 
-Tracking fire data from www.fire.ca.gov/incidents
+Tracking CityStrides updates for Durham, NC from https://citystrides.com/cities/171335
 
-This repo archives the latest version of https://www.fire.ca.gov/umbraco/Api/IncidentApi/GetIncidents every twenty minutes, if it has changed.
+This repo archives the latest version of the page every twenty minutes, if it has changed.
 
 Background on this project: [Git scraping: track changes over time by scraping to a Git repository](https://simonwillison.net/2020/Oct/9/git-scraping/)
